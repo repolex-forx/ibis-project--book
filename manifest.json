@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "ibis-project",
+  "repo": "book",
+  "versions": [
+    {
+      "commit": "0dad1cd089c443a70fd4fce5e749ac65d6b0f3c0",
+      "parsed_at": "2026-10-21T19:51:01.636078+00:00",
+      "filetree": "filetree/0dad1cd089c443a70fd4fce5e749ac65d6b0f3c0.nq.gz",
+      "blobs": [
+        "blob/b7faf403d915ca307532bb0eb9cceaf0214e8e5b.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
